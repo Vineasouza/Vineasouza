@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Vinicius Souza
 
 <p align="center">
-  <img src="/bannergit.png" >
+  <img src="/bannergit.png" width="200" >
 </p>
 
 - 🚀 I’m currently studying Computer Engineer at UTFPR
