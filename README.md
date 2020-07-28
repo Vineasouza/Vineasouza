@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Vinicius Souza
 
-##  I’m currently studying Computer Engineer
+## 🚀 I’m currently studying Computer Engineer
 <!--
 **Vineasouza/Vineasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
