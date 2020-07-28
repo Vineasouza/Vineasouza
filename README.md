@@ -1,6 +1,5 @@
-## Hi there 👋 my name is Vinicius Souza
-
 ![Github Banner](https://github.com/Vineasouza/Vineasouza/blob/master/bannergit.png)
+
 - 🚀 I’m currently studying Computer Engineer at UTFPR
 - 💻 I’m currently learning about Data Science and Machine Learning in Python
  
