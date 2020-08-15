@@ -4,8 +4,8 @@
 - 💻 I’m currently learning about Data Science and Machine Learning in Python
 
 [![Twitter Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=twitter&logoColor=white&link=https://twitter.com/vineasouza)](https://twitter.com/vineasouza) 
-
 [![Linkedin Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vineasouza/)](https://www.linkedin.com/in/vineasouza/) 
+
 <!--
 **Vineasouza/Vineasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
