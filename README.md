@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Vineasouza/Vineasouza/blob/master/bannergit.png)
 
-- 🚀 Graduating in Computer Engineering at the [Federal Technological University of Paraná ](http://portal.utfpr.edu.br/english)- Campus Cornélio Procópio, 
+- 🚀 Graduating in Computer Engineering at the [!Federal Technological University of Paraná ](http://portal.utfpr.edu.br/english)- Campus Cornélio Procópio, 
 - 🔭 Student of the Institutional Program of Volunteering in Scientific and Technological Initiation of the research project "A predictive analysis model for a Brazilian Stock Exchange based on Big Data" of the plan "Real-time sentiment analysis of news from the Brazilian stock market
 - 💻 Currently searching about Data Science and Machine Learning in Python
 - ☕ Turning coffee into knowledge
