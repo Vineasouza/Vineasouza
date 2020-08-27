@@ -10,6 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vineasouza/)](https://www.linkedin.com/in/vineasouza/) 
 [![Instagram Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/vineasouza/)](https://www.instagram.com/in/vineasouza/) 
 [![VSCO Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=vsco&logoColor=white&link=https://www.vsco.co/vineasouza/)](https://www.vsco.co/vineasouza/)
+[![Facebook Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vineasouza)](https://www.facebook.com/vineasouza)
 
 <!--
 **Vineasouza/Vineasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
