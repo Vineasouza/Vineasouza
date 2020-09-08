@@ -1,5 +1,14 @@
 ![Github Banner](https://github.com/Vineasouza/Vineasouza/blob/master/bannergit.png)
 
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineasouza&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=Vineasouza&theme=dark&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
+
 - 🚀 Graduating in Computer Engineering at the [Federal Technological University of Paraná ](http://portal.utfpr.edu.br/english)- Campus Cornélio Procópio, 
 - 🔭 Student of the Institutional Program of Volunteering in Scientific and Technological Initiation, of the research project "A predictive analysis model for a Brazilian Stock Exchange based on Big Data", of the plan "Real-time sentiment analysis of news from the Brazilian stock market
 - 💻 Currently searching about Data Science and Machine Learning in Python
