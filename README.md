@@ -3,7 +3,7 @@
 <center>
 <table>
   <tr>
-      <td><img width="800px" align="left" src=".github/vine.gif" /></td>
+      <td><img width="800px" align="left" src=".github/githubanimatedv2.gif " /></td>
       <!-- <td><img width="1000px" align="right" src=".github/bannergit.png" /></td> -->
   </tr>  
 </table>
