@@ -1,4 +1,13 @@
-![Github Banner](https://github.com/Vineasouza/Vineasouza/blob/master/bannergit.png)
+<!-- ![Github Banner](https://github.com/Vineasouza/Vineasouza/blob/master/bannergit.png) -->
+
+<center>
+<table>
+  <tr>
+      <td><img width="250px" align="left" src=".github/dev.gif" /></td>
+      <!-- <td><img width="1000px" align="right" src=".github/bannergit.png" /></td> -->
+  </tr>  
+</table>
+</center>
 
 [![Facebook Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vineasouza)](https://www.facebook.com/vineasouza)
 [![Twitter Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=twitter&logoColor=white&link=https://twitter.com/vineasouza)](https://twitter.com/vineasouza) 
