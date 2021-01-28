@@ -9,16 +9,12 @@
 </table>
 </center>
 
---------------------------------------------------------------------------------------------------------
-
 [![Facebook Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vineasouza)](https://www.facebook.com/vineasouza)
 [![Twitter Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=twitter&logoColor=white&link=https://twitter.com/vineasouza)](https://twitter.com/vineasouza) 
 [![Instagram Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/vineasouza/)](https://www.instagram.com/in/vineasouza/) 
 [![VSCO Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=vsco&logoColor=white&link=https://www.vsco.co/vineasouza/)](https://www.vsco.co/vineasouza/)
 [![GitHub Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=github&logoColor=white&link=https://github.com/Vineasouza)](https://github.com/Vineasouza)
 [![Linkedin Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vineasouza/)](https://www.linkedin.com/in/vineasouza/)
-
---------------------------------------------------------------------------------------------------------
 
 - 🚀 Computer Engineering student at the [Federal Technological University of Paraná ](http://portal.utfpr.edu.br/english)- Campus Cornélio Procópio, 
 - 🔭 Student of the Institutional Program of Volunteering in Scientific and Technological Initiation, of the research project "A predictive analysis model for a Brazilian Stock Exchange based on Big Data", of the plan "Real-time sentiment analysis of news from the Brazilian stock market
@@ -36,8 +32,6 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-512.png" alt="NodeJS"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="ReactJS"/></code>
-
---------------------------------------------------------------------------------------------------------
 
 <center>
 <table>
