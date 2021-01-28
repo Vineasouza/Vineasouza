@@ -8,6 +8,7 @@
   </tr>  
 </table>
 </center>
+
 --------------------------------------------------------------------------------------------------------
 
 [![Facebook Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vineasouza)](https://www.facebook.com/vineasouza)
@@ -26,7 +27,7 @@
 
 --------------------------------------------------------------------------------------------------------
 ## Stack
-
+<code><img height="32" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699871-icon-88-document-file-c-512.png" alt="C"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python"/></code>
 <code><img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML5"/></code>
