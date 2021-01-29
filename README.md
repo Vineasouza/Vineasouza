@@ -19,7 +19,7 @@
 ## About me
 
 - 🚀 Computer Engineering student at the [Federal Technological University of Paraná ](http://portal.utfpr.edu.br/english)- Campus Cornélio Procópio, 
-- 🔭 Student of the Institutional Program of Volunteering in Scientific and Technological Initiation, of the research project "A predictive analysis model for a Brazilian Stock Exchange based on Big Data", of the plan "Real-time sentiment analysis of news from the Brazilian stock market
+- 🔭 Student of the Institutional Program of Volunteering in Scientific and Technological Initiation, of the research project "A predictive analysis model for a Brazilian Stock Exchange based on Big Data", of the plan "Real-time sentiment analysis of news from the Brazilian stock market. Article publish at: [XXV Seminário de Iniciação Científica e Tecnológica da UTFPR (SICITE 2020)](https://eventos.utfpr.edu.br//sicite/sicite2020/paper/view/6244)   [Brazilian Journal of Development](https://www.brazilianjournals.com/index.php/BRJD/article/view/23959)
 - 💻 Currently searching about Data Science and Machine Learning in Python and FrontEnd development in ReactJS 
 - ☕ Turning coffee into knowledge 
 
