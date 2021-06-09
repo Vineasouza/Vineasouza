@@ -9,6 +9,7 @@
 </table>
 </center>
 
+![](https://komarev.com/ghpvc/?username=Vineasouza&color=ff0000&style=flat-square&label=Vineasouza+profile+views)
 [![Facebook Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vineasouza)](https://www.facebook.com/vineasouza)
 [![Twitter Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=twitter&logoColor=white&link=https://twitter.com/vineasouza)](https://twitter.com/vineasouza) 
 [![Instagram Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/vineasouza/)](https://www.instagram.com/in/vineasouza/) 
