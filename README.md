@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=Vineasouza&color=ff0000&style=flat-square&label=Vineasouza+profile+views)
 [![Facebook Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vineasouza)](https://www.facebook.com/vineasouza)
 [![Twitter Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=twitter&logoColor=white&link=https://twitter.com/vineasouza)](https://twitter.com/vineasouza) 
-[![Instagram Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/vineasouza/)](https://www.instagram.com/in/vineasouza/) 
+[![Instagram Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/vineasouza/)](https://www.instagram.com/vineasouza/) 
 [![VSCO Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=vsco&logoColor=white&link=https://www.vsco.co/vineasouza/)](https://www.vsco.co/vineasouza/)
 [![GitHub Badge](http://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&logo=github&logoColor=white&link=https://github.com/Vineasouza)](https://github.com/Vineasouza)
 [![Linkedin Badge](https://img.shields.io/badge/-@vineasouza-ff0000?style=flat-square&labelColor=ff0000&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vineasouza/)](https://www.linkedin.com/in/vineasouza/)
